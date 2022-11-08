@@ -5,4 +5,5 @@ setTimeout(function () {
 
   img.remove();
   cardbody.append(img);
+  console.log("bruh");
 }, 1000);
